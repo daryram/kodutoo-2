@@ -1,3 +1,5 @@
+Minu link:  http://greeny.cs.tlu.ee/~daryram/eerak/typer/typer.html
+
 # kodutoo-2
 Täiusta tunnis loodud typer'i rakendust.
 
